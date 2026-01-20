@@ -42,3 +42,7 @@ First login worked perfectly! Got the Ubuntu welcome message.
 
 
 ![Reanining Other](Images/Disk.png)
+
+
+## Step 5: Connected to the terminal
+After completing all the step I have make it so that I can run it from terminal as per professor guidance. And we have created shortcut key so that it can be open easily afterward.
