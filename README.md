@@ -55,7 +55,7 @@ After completing all the step I have make it so that I can run it from terminal 
 For this time my professor (Toni Laitinen) have given a assignment where we have to select five different **Level 2** directories and save their contents in one file, `listing.md`.  
 Here **Level 2** directories means /home/name. Not /home which is **Level 1** directory.
 
-So, I was having a problem on how to save the content in **lissting.md**, so I used chatgpt for that. Rest of was easy as we have to find the content which was already exist in our files.
+So, I was having a problem on how to save the content in **lissting.md**, so I used **chatgpt** for that. Rest of was easy as we have to find the content which was already exist in our files.
 
 So, here is are the code that I have used in while I was coding my asignment.
 
