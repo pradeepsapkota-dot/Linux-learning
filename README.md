@@ -260,6 +260,7 @@ cd /opy/projekti
 ```
 
 **Images**
+
 ![Step 6](Images/Step%206%20for%20hupu.png)
 
 So as we can see, for ``tupu`` and ``lupu`` it allow the access but for ``hupu`` it denies it which shows that our assignment is correct.
