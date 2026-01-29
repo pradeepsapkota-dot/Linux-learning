@@ -1304,7 +1304,8 @@ ls -l
 ![Step 6](Images/Step%206%20for%20lupu.png)
 
 - Test as ``hupu``
-Her hupu is a unauthorized access so it should so access denied.
+
+Here hupu is a unauthorized access so it should so access denied.
 
 ```bash
 su - hupu
