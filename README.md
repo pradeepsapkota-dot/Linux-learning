@@ -59,7 +59,7 @@ So, I was having a problem on how to save the content in **lissting.md**, so I u
 
 So, here is are the code that I have used in while I was coding my asignment.
 
-``` linux
+```
 prade@prade-ubuntu-LinuxLearning:~$ ls /
 bin                home               media  run                 sys
 bin.usr-is-merged  lib                mnt    sbin                tmp
