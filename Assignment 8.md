@@ -117,4 +117,5 @@ The final configuration shows:
 
 
 **Image**
+
 ![Firewall](Images/Firewall.png)
