@@ -197,6 +197,7 @@ sudo apt install fakepackage
 ```
 **Error Message:**
 E: Unable to locate package fakepackage
+
 **Images:**
 
 ![Fake](Images/Fake.png)
